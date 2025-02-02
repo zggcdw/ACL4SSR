@@ -23,8 +23,6 @@ IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
 # Router managed 路由器管理域名
-DOMAIN,instant.arubanetworks.com
-DOMAIN,setmeup.arubanetworks.com
 DOMAIN,kb.netgear.com
 DOMAIN,www.netgear.com
 DOMAIN-SUFFIX,routerlogin.com/BRS_index.htm
