@@ -18,7 +18,6 @@ DOMAIN-KEYWORD,everesttech
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,t.co
 DOMAIN-KEYWORD,yunti
-DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,xusai
 DOMAIN-KEYWORD,fskare
 DOMAIN-KEYWORD,mmstat
@@ -1177,3 +1176,21 @@ DOMAIN-SUFFIX,tracker.yhd.com
 DOMAIN-SUFFIX,tralog.ganji.com
 DOMAIN-SUFFIX,up.qingdaonews.com
 DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
+# 内容：SteamCN游戏交流讨论
+# 数量：16条
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,dota2.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,wmsjsteam.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
