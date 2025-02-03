@@ -1,7 +1,23 @@
+# BanProgramAD.list🍃 应用净化
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 杂项关键字阿里收集个人稳私
 IP-CIDR,192.0.0.0/8
+DOMAIN-KEYWORD,linkedin
+DOMAIN-KEYWORD,marketo
+DOMAIN-KEYWORD,mktoresp
+DOMAIN-KEYWORD,rlcdn
+DOMAIN-KEYWORD,rubiconproject
+DOMAIN-KEYWORD,tremorhub
+DOMAIN-KEYWORD,adobedtm
+DOMAIN-KEYWORD,casalemedia
+DOMAIN-KEYWORD,company-target
+DOMAIN-KEYWORD,demandbase
+DOMAIN-KEYWORD,demdex
+DOMAIN-KEYWORD,everesttech
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,t.co
+DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,xusai
 DOMAIN-KEYWORD,fskare
@@ -1094,7 +1110,6 @@ DOMAIN-SUFFIX,ads.csdn.net
 DOMAIN-SUFFIX,ads.feedly.com
 DOMAIN-SUFFIX,ads.genieessp.com
 DOMAIN-SUFFIX,ads.house365.com
-DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,adshownew.it168.com
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,advert.api.thejoyrun.com
