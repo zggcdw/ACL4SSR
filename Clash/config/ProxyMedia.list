@@ -6,6 +6,7 @@
 # ABC
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
+DOMAIN-SUFFIX,6.ipchaxun.net
 DOMAIN-KEYWORD,amplitude
 DOMAIN-KEYWORD,saasexch
 DOMAIN-SUFFIX,edgedatg.com
