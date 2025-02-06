@@ -4,6 +4,10 @@
 # 数量：367条
 
 # ABC
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+DOMAIN-KEYWORD,amplitude
+DOMAIN-KEYWORD,saasexch
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 
