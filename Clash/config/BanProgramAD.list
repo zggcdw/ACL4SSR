@@ -3,9 +3,9 @@
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 杂项关键字阿里收集个人稳私
 IP-CIDR,192.0.0.0/8
-DOMAIN-KEYWORD,ss0 #爬虫
-DOMAIN-KEYWORD,bdstatic #爬虫
-DOMAIN-KEYWORD,clarity #d.clarity.ms监测用户在你网站行为
+DOMAIN-KEYWORD,ss0
+DOMAIN-KEYWORD,bdstatic
+DOMAIN-KEYWORD,clarity
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,marketo
 DOMAIN-KEYWORD,mktoresp
