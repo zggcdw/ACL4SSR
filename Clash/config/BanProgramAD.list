@@ -2,7 +2,18 @@
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 杂项关键字阿里收集个人稳私
 IP-CIDR,192.0.0.0/8
+# 京东爬虫
 DOMAIN-KEYWORD,ss0
+# 阿里爬虫
+DOMAIN-KEYWORD,mmstat
+DOMAIN-KEYWORD,alicdn
+# Adobe跟踪器
+DOMAIN-KEYWORD,adobe
+# adobestats.io跟踪器
+DOMAIN-KEYWORD,adobestats
+# google跟踪器
+# 没有放置www.3ds.com/zh-hans/cookies
+# 跟踪器baidu
 DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,clarity
 DOMAIN-KEYWORD,linkedin
@@ -17,14 +28,17 @@ DOMAIN-KEYWORD,company-target
 DOMAIN-KEYWORD,demandbase
 DOMAIN-KEYWORD,demdex
 DOMAIN-KEYWORD,everesttech
-DOMAIN-SUFFIX,2o7.net
-DOMAIN-SUFFIX,t.co
+DOMAIN-KEYWORD,2o7.net
+DOMAIN-KEYWORD,t.me
+DOMAIN-KEYWORD,privacyreport
+# wiFi稳蔽功击CMCC
+DOMAIN-KEYWORD,CT
+DOMAIN-KEYWORD,CMCC
 DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,xusai
 DOMAIN-KEYWORD,fskare
-DOMAIN-KEYWORD,mmstat
+# 跟综器爬虫
 DOMAIN-SUFFIX,go.warpplus.cc
-DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,privacyreport
 DOMAIN-KEYWORD,Finish
 DOMAIN-KEYWORD,doubleclick
@@ -41,10 +55,6 @@ DOMAIN-KEYWORD,redditstatic
 DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,tvsquared
 DOMAIN-KEYWORD,sangfor
-# Adobe
-DOMAIN-KEYWORD,adobe
-# adobestats.io
-DOMAIN-KEYWORD,adobestats
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
@@ -178,7 +188,6 @@ DOMAIN-SUFFIX,adm.baidu.com
 DOMAIN-SUFFIX,adscdn.baidu.cn
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
-DOMAIN-SUFFIX,ae.bdstatic.com
 DOMAIN-SUFFIX,afd.baidu.cn
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,als.baidu.cn
@@ -283,7 +292,6 @@ DOMAIN-SUFFIX,m1.baidu.com
 DOMAIN-SUFFIX,ma.baidu.cn
 DOMAIN-SUFFIX,ma.baidu.com
 DOMAIN-SUFFIX,mg09.zhaopin.com
-DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,mobads-logs.baidu.cn
 DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mobads.baidu.cn
@@ -326,7 +334,6 @@ DOMAIN-SUFFIX,spcode.baidu.cn
 DOMAIN-SUFFIX,spcode.baidu.com
 DOMAIN-SUFFIX,stat.v.baidu.com
 DOMAIN-SUFFIX,su.bdimg.com
-DOMAIN-SUFFIX,su.bdstatic.com
 DOMAIN-SUFFIX,tk.baidu.cn
 DOMAIN-SUFFIX,tk.baidu.com
 DOMAIN-SUFFIX,tkweb.baidu.com
@@ -362,7 +369,6 @@ DOMAIN-SUFFIX,wm.baidu.cn
 DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,znsv.baidu.cn
 DOMAIN-SUFFIX,znsv.baidu.com
-DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
 
 # Book-app 起点 掌阅 书旗 宜搜
