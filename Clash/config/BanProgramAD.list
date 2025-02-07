@@ -2,8 +2,9 @@
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 # 杂项关键字阿里收集个人稳私
 IP-CIDR,192.0.0.0/8
-# 京东爬虫
+# 京东百度爬虫
 DOMAIN-KEYWORD,ss0
+DOMAIN-KEYWORD,bdstatic
 # 阿里爬虫
 DOMAIN-KEYWORD,mmstat
 DOMAIN-KEYWORD,alicdn
@@ -14,7 +15,6 @@ DOMAIN-KEYWORD,adobestats
 # google跟踪器
 # 没有放置www.3ds.com/zh-hans/cookies
 # 跟踪器baidu
-DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,clarity
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,marketo
@@ -29,21 +29,29 @@ DOMAIN-KEYWORD,demandbase
 DOMAIN-KEYWORD,demdex
 DOMAIN-KEYWORD,everesttech
 DOMAIN-KEYWORD,2o7.net
-DOMAIN-KEYWORD,t.me
 DOMAIN-KEYWORD,privacyreport
+DOMAIN-KEYWORD,googleadservices
+DOMAIN-KEYWORD,googlesyndication
+# 电报
+DOMAIN-KEYWORD,t.me
+# 推特Twitter
+DOMAIN-KEYWORD,t.co
 # wiFi稳蔽功击CMCC
+DOMAIN-KEYWORD,gfl
 DOMAIN-KEYWORD,CT
 DOMAIN-KEYWORD,CMCC
 DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,xusai
 DOMAIN-KEYWORD,fskare
-# 跟综器爬虫
+DOMAIN-SUFFIX,6.ipchaxun.net
+# 爬虫跟综器
 DOMAIN-SUFFIX,go.warpplus.cc
 DOMAIN-KEYWORD,privacyreport
 DOMAIN-KEYWORD,Finish
 DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,yimg
 DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,redditstatic
 DOMAIN-KEYWORD,adsrvr
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,mxpnl
@@ -51,10 +59,12 @@ DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,mixpanel
 DOMAIN-KEYWORD,google-analytics
 DOMAIN-KEYWORD,quora
-DOMAIN-KEYWORD,redditstatic
 DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,tvsquared
 DOMAIN-KEYWORD,sangfor
+# CM大佬
+DOMAIN-KEYWORD,加入我的频道t.me/CMLiussss解锁更多优选节点
+DOMAIN-KEYWORD,CFnat
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
@@ -146,16 +156,11 @@ DOMAIN-SUFFIX,adash-c.m.taobao.com
 DOMAIN-SUFFIX,adash-c.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
-DOMAIN-SUFFIX,afp.alicdn.com
 DOMAIN-SUFFIX,ai.m.taobao.com
 DOMAIN-SUFFIX,alipaylog.com
-DOMAIN-SUFFIX,atanx.alicdn.com
-DOMAIN-SUFFIX,atanx2.alicdn.com
 DOMAIN-SUFFIX,fav.simba.taobao.com
 DOMAIN-SUFFIX,g.click.taobao.com
 DOMAIN-SUFFIX,g.tbcdn.cn
-DOMAIN-SUFFIX,gma.alicdn.com
-DOMAIN-SUFFIX,gtmsdd.alicdn.com
 DOMAIN-SUFFIX,hydra.alibaba.com
 DOMAIN-SUFFIX,m.simba.taobao.com
 DOMAIN-SUFFIX,pindao.huoban.taobao.com
@@ -457,13 +462,8 @@ DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,afd.l.google.com
 DOMAIN-SUFFIX,badad.googleplex.com
 DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlecommerce.com
-DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,mobileads.google.com
 DOMAIN-SUFFIX,pagead-tpc.l.google.com
 DOMAIN-SUFFIX,pagead.google.com
@@ -786,15 +786,6 @@ DOMAIN-SUFFIX,upgrade.xl9.xunlei.com
 
 # Yahoo
 DOMAIN-SUFFIX,ad.wretch.cc
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,adserver.yahoo.com
-DOMAIN-SUFFIX,adss.yahoo.com
-DOMAIN-SUFFIX,analytics.query.yahoo.com
-DOMAIN-SUFFIX,analytics.yahoo.com
-DOMAIN-SUFFIX,ane.yahoo.co.jp
-DOMAIN-SUFFIX,ard.yahoo.co.jp
-DOMAIN-SUFFIX,beap-bc.yahoo.com
-DOMAIN-SUFFIX,clicks.beap.bc.yahoo.com
 DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com
 DOMAIN-SUFFIX,flurry.com
@@ -1093,7 +1084,6 @@ DOMAIN-SUFFIX,analytics.ganji.com
 DOMAIN-SUFFIX,api-deal.kechenggezi.com
 DOMAIN-SUFFIX,api-z.weidian.com
 DOMAIN-SUFFIX,app-monitor.ele.me
-DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,bd1.52che.com
 DOMAIN-SUFFIX,bd2.52che.com
 DOMAIN-SUFFIX,bdj.tianya.cn
