@@ -35,7 +35,7 @@ DOMAIN-KEYWORD,googlesyndication
 # 电报
 DOMAIN-KEYWORD,t.me
 # 推特Twitter
-DOMAIN-KEYWORD,t.co
+# DOMAIN-KEYWORD,t.co
 # wiFi稳蔽功击CMCC
 DOMAIN-KEYWORD,gfl
 DOMAIN-KEYWORD,CT
