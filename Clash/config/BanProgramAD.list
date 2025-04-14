@@ -6,9 +6,9 @@ IP-CIDR,192.0.0.0/8,no-resolve
 # 京东百度爬虫
 # DOMAIN-KEYWORD,ss0
 # DOMAIN-KEYWORD,bdstatic
-# 阿里爬虫
-# DOMAIN-KEYWORD,mmstat
-# DOMAIN-KEYWORD,alicdn
+# 阿里爬虫#域名为淘宝网所使用mmstat
+DOMAIN-KEYWORD,mmstat
+DOMAIN-KEYWORD,alicdn
 # Adobe跟踪器
 # DOMAIN-KEYWORD,adobe
 # adobestats.io跟踪器
