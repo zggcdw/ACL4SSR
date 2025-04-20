@@ -66,6 +66,7 @@ DOMAIN-KEYWORD,alicdn
 # CM大佬
 # DOMAIN-KEYWORD,加入我的频道t.me/CMLiussss解锁更多优选节点
 # DOMAIN-KEYWORD,CFnat
+# DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,mcupdate.gstarcad.com
 DOMAIN-SUFFIX,adx.open-adx.com
@@ -2475,7 +2476,6 @@ DOMAIN-SUFFIX,cs.dqwjzm.com
 DOMAIN-SUFFIX,cs.twcczhu.com
 DOMAIN-SUFFIX,csad.cc
 DOMAIN-SUFFIX,csbew.com
-DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,csqiulong.com
 DOMAIN-SUFFIX,cstoa.com
 DOMAIN-SUFFIX,csxjys.com
