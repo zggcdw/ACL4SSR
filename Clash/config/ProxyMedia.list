@@ -2,6 +2,8 @@
 # 内容：国外媒体列表
 # 更新：2024-12-14 11:14:53
 # 数量：367条
+# google
+DOMAIN-KEYWORD,gstatic
 
 # ABC
 IP-CIDR,0.0.0.0/8,no-resolve
